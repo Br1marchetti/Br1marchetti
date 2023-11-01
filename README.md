@@ -1,8 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Bruno Marchetti</h1>
+<h3 align="center">Student - UTNFRSR - 2ND PROGRAMMING TECHNIQUE</h3>
 
 - 🌱 I’m currently learning **Python,Java,HTML,CSS,JS,Node**
 
-- 👯 I’m currently collaborating on [Team-Noche-Cuarto-Semestre](https://github.com/CodeSystem2022/Team-Noche---Cuarto-Semestre)
+- 👯 I’m looking to collaborate on [Team-Noche-Cuarto-Semestre](https://github.com/CodeSystem2022/Team-Noche---Cuarto-Semestre)
 
 - 📫 How to reach me **br1marchetti.22@gmail.com**
 

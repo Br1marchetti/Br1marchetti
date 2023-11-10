@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno Marchetti</h1>
-<h3 align="center">Student - UTNFRSR - 2ND PROGRAMMING TECHNIQUE</h3>
+<h3 align="center">Student - UTNFRSR - 2ND YEAR IN PROGRAMMING TECHNIQUE</h3>
 
 - 🌱 I’m currently learning **Python,Java,HTML,CSS,JS,Node**
 
